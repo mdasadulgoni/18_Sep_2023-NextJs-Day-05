@@ -10,6 +10,7 @@ header{
     margin-bottom: 20px;
     text-align: center;
     line-height: 120px;
+    color: white;
 }
 main{
     width: 90%;
@@ -26,6 +27,7 @@ aside{
     margin-bottom: 10px;
     text-align: center;
     line-height: 500px;
+    color: white;
 }
 section{
     width: 60%;
@@ -34,6 +36,7 @@ section{
     margin-bottom: 20px;
     text-align: center;
     line-height: 500px;
+    color: white;
 }
 footer{
     width: 90%;
@@ -42,4 +45,5 @@ footer{
     background: green;
     text-align: center;
     line-height: 100px;
+    color: white;
 }
